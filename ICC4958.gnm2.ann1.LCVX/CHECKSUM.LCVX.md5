@@ -1,0 +1,10 @@
+919d17ca8ed48ad4e5fdbc852155b4db MANIFEST.LCVX.correspondence.yml
+c4847d34e185927140bd9382b9bdb922 MANIFEST.LCVX.descriptions.yml
+c7dfb846eeb3d3a460069ffec113ff79 README.LCVX.yml
+718f96dcb74dd332a07d76b1286942c3 cicar.ICC4958.gnm2.ann1.LCVX.cds.fna.gz
+90063061d234110dde3594dc75366afc cicar.ICC4958.gnm2.ann1.LCVX.cds_primaryTranscript.fna.gz
+eec8f0eec3753e7ac5c809007a40bfdc cicar.ICC4958.gnm2.ann1.LCVX.gene_function.gff3.gz
+6c6d29d0483ef5c5362c9631af192b13 cicar.ICC4958.gnm2.ann1.LCVX.gene_models_main.gff3.gz
+de0bcb4b2514f296712085e689a61e62 cicar.ICC4958.gnm2.ann1.LCVX.gene_models_main.gff3.gz.tbi
+07af6eaad5d7e368f894621243d0a5ce cicar.ICC4958.gnm2.ann1.LCVX.protein.faa.gz
+d2935ea738b12c8fa003425f15766e35 cicar.ICC4958.gnm2.ann1.LCVX.protein_primaryTranscript.faa.gz
