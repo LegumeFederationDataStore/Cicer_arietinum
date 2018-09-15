@@ -1,7 +1,7 @@
 # filename_in_this_repository: previous_name
-  cicar.ICC4958.gnm2.ann1.LCVX.cds.fna.gz: cicar.ICC4958.a2.v1.cds.fa.gz
-  cicar.ICC4958.gnm2.ann1.LCVX.cds_primaryTranscript.fna.gz: cicar.ICC4958.a2.v1.cds_primaryTranscript.fa.gz
-  cicar.ICC4958.gnm2.ann1.LCVX.gene_function.gff3.gz: cicar.ICC4958.v2.0.gff3.for_gbrowse.modified
-  cicar.ICC4958.gnm2.ann1.LCVX.gene_models_main.gff3.gz: cicar.ICC4958.a2.v1.gff3.gz
-  cicar.ICC4958.gnm2.ann1.LCVX.pep.faa.gz: cicar.ICC4958.a2.v1.pep.fa.gz
-  cicar.ICC4958.gnm2.ann1.LCVX.pep_primaryTranscript.faa.gz: cicar.ICC4958.a2.v1.pep_primaryTranscript.fa.gz
+cicar.ICC4958.gnm2.ann1.LCVX.cds.fna.gz: cicar.ICC4958.a2.v1.cds.fa.gz
+cicar.ICC4958.gnm2.ann1.LCVX.cds_primaryTranscript.fna.gz: cicar.ICC4958.a2.v1.cds_primaryTranscript.fa.gz
+cicar.ICC4958.gnm2.ann1.LCVX.gene_function.gff3.gz: cicar.ICC4958.v2.0.gff3.for_gbrowse.modified
+cicar.ICC4958.gnm2.ann1.LCVX.gene_models_main.gff3.gz: cicar.ICC4958.a2.v1.gff3.gz
+cicar.ICC4958.gnm2.ann1.LCVX.pep.faa.gz: cicar.ICC4958.a2.v1.pep.fa.gz
+cicar.ICC4958.gnm2.ann1.LCVX.pep_primaryTranscript.faa.gz: cicar.ICC4958.a2.v1.pep_primaryTranscript.fa.gz
