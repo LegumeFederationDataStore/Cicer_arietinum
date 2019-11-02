@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+# filename_in_this_repository: previous_name
+cicar.CDCFrontier.div.G8RH.vcf.gz: TK_WGS2016.VF.SNP.vcf.gz
+cicar.CDCFrontier.div.G8RH.accession_list.txt: derived from cicar.CDCFrontier.div.G8RH.vcf.gz
+

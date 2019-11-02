@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+# filename_in_this_repository: description
+cicar.CDCFrontier.div.G8RH.vcf.gz: VCF-format variant data
+cicar.CDCFrontier.div.G8RH.accession_list.txt: list of genotyped accessions 
+

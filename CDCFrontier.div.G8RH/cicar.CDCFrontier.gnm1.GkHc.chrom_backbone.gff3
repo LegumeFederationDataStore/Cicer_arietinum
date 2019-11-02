@@ -1,0 +1,9 @@
+##gff-version 3
+cicar.CDCFrontier.gnm1.Ca1	cicar.CDCFrontier.gnm1	chromosome	1	48359943	.	.	.	name=Ca1
+cicar.CDCFrontier.gnm1.Ca2	cicar.CDCFrontier.gnm1	chromosome	1	36634854	.	.	.	name=Ca2
+cicar.CDCFrontier.gnm1.Ca3	cicar.CDCFrontier.gnm1	chromosome	1	39989001	.	.	.	name=Ca3
+cicar.CDCFrontier.gnm1.Ca4	cicar.CDCFrontier.gnm1	chromosome	1	49191682	.	.	.	name=Ca4
+cicar.CDCFrontier.gnm1.Ca5	cicar.CDCFrontier.gnm1	chromosome	1	48169137	.	.	.	name=Ca5
+cicar.CDCFrontier.gnm1.Ca6	cicar.CDCFrontier.gnm1	chromosome	1	59463898	.	.	.	name=Ca6
+cicar.CDCFrontier.gnm1.Ca7	cicar.CDCFrontier.gnm1	chromosome	1	48961560	.	.	.	name=Ca7
+cicar.CDCFrontier.gnm1.Ca8	cicar.CDCFrontier.gnm1	chromosome	1	16477302	.	.	.	name=Ca8
