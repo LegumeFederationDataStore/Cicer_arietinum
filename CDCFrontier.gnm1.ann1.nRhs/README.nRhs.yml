@@ -50,3 +50,5 @@ file_transformation:
 changes: 
   - 2018-03-02 add MANIFESTs
   - 2018-07-12 Changed fasta header in all *.fna and *.faa files (perl -pi -e 's/>Ca/>cicar.CDCFrontier.gnm1.ann1.Ca/')
+  - 2019-12-20 Added genome prefixes (cicar.CDCFrontier.gnm1.) to "extra" GFF files
+  - 2019-12-20 Added gene prefixes (cicar.CDCFrontier.gnm1.ann1) to info files (.txt)
