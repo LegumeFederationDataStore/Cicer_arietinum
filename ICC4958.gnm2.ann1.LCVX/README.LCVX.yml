@@ -51,3 +51,4 @@ changes:
   - 2018-03-02 added MANIFESTs
   - 2018-07-12 Changed fasta header in all *.fna and *.faa files (perl -pi -e 's/>Ca/>cicar.ICC4958.gnm2.ann1.Ca/')
   - 2018-09-15 minor corrections to fasta headers (seq id not terminating with whitespace in some)
+  - 2020-04-30 sorted gene_models_main.gff3 to have parents before children
