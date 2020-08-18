@@ -6,12 +6,11 @@ a124a2a55c3b2eed3461e7926bd832c1 ./busco/run_cicar.ICC4958.gnm2.ann1.LCVX.protei
 a05c83ee9042dcebba99565a0474d22b ./cicar.ICC4958.gnm2.ann1.LCVX.cds.fna.gz
 d2935ea738b12c8fa003425f15766e35 ./cicar.ICC4958.gnm2.ann1.LCVX.protein_primaryTranscript.faa.gz
 ee38875e97ef3593f574269fa7d0873d ./MANIFEST.LCVX.correspondence.yml
-b5d9923e8e6f63c525571efb1f40fd84 ./.nfs.3fe8f908.00704.4
 90063061d234110dde3594dc75366afc ./cicar.ICC4958.gnm2.ann1.LCVX.cds_primaryTranscript.fna.gz
 232bb3e5c4d6bfd5cbee0aa9fff53833 ./cicar.ICC4958.gnm2.ann1.LCVX.gene_models_main.gff3.gz
 74376bacb02e01274ba5e1240bc093d3 ./README.LCVX.yml
 2b546023da29fb3611e606a6d8aca83a ./cicar.ICC4958.gnm2.ann1.LCVX.gene_function.gff3.gz
 5b7c9de0a9a2b903e0d0156fd0de3010 ./cicar.ICC4958.gnm2.ann1.LCVX.gene_models_main.gff3.gz.tbi
-76f18817af5123a95c1a0102c16d9a37 ./cicar.ICC4958.gnm2.ann1.LCVX.legfed_v1_0.M65K.gfa.tsv.gz
+90e255d6b17c56623c3eb69d59a7950c ./cicar.ICC4958.gnm2.ann1.LCVX.legfed_v1_0.M65K.gfa.tsv.gz
 8acff91a28191ad35bf8c9f1b5347db5 ./cicar.ICC4958.gnm2.ann1.LCVX.protein.faa.gz
 d719e20f375fd72ae08f6be1f4a394aa ./cicar.ICC4958.gnm2.ann1.LCVX.gene_function.gff3.gz.tbi
