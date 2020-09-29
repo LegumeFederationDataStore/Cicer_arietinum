@@ -16,3 +16,4 @@ cicar.CDCFrontier.gnm1.ann1.nRhs.repeat_models_denovo.gff.gz
 cicar.CDCFrontier.gnm1.ann1.nRhs.repeat_models_proteinmask.gff.gz
 cicar.CDCFrontier.gnm1.ann1.nRhs.repeat_models_repeatmasker.gff.gz
 cicar.CDCFrontier.gnm1.ann1.nRhs.repeat_models_trf.gff.gz
+cicar.CDCFrontier.gnm1.ann1.nRhs.legfed_v1_0.M65K.gfa.tsv.gz: gene family assignments
